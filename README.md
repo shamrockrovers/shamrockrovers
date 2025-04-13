@@ -20,7 +20,7 @@ Config files for my GitHub profile.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :man_technologist: About Me :
+### :man_technologist: + 👽: About Me :
 - :telescope: I’m not working as a Software Engineer and not contributing to frontend and backend for building web applications.
 
 - :seedling: not Exploring Technical Content Writing.
